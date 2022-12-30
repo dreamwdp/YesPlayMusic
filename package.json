@@ -127,4 +127,7 @@
       "pre-commit": "npm run prettier"
     }
   }
+  "engines": {
+    "node": ">=16"
+}
 }
