@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "netease-cloud-music-klzt7xyky-dreamwdp.vercel.app"
+      "destination": "https://netease-cloud-music-api-sooty-kappa.vercel.app/"
     }
   ]
 }
